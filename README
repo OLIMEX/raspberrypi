@@ -1,0 +1,13 @@
+RaspberryPi examples for RPI-UEXT adapter and UEXT modules
+----------------------------------------------------------
+
+MOD-SMB380  - 3 axes accelerometer
+
+MOD-LCD3310 - Nokia 3310 LCD display
+
+MOD-LCD1x8  - LCD display with 1 row 9 symbols
+
+MOD-WII     - Wii nunchuk with 3 axes accelerometer, joystick, two buttons
+
+
+OLIMEX Ltd  https://www.olimex.com
